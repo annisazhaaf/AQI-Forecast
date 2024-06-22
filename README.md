@@ -1,6 +1,6 @@
 **AQI Forecast Analist**
 ------------------------------------ 
-**Data Understanding***
+**Data Understanding**
 
 Dataset yang digunakan adalah Indeks Standar Pencemar Udara di Provinsi Bandar Lampung Tahun Januari 2022- Januari 2024. 
 Dataset ini memiliki 17.076 baris dan 11 kolom sebelum  di cleaning yang berisi mengenai Indeks Standar Pencemar Udara (ISPU) di Provinsi Bandar Lampung. 
