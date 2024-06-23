@@ -1,3 +1,4 @@
+*THIS IS PORTOFOLIO FINAL PROJECT DEEP LEARNING*
 **AQI Forecast Analist**
 ------------------------------------ 
 **Data Understanding**
@@ -16,11 +17,23 @@ Setelah dilakukan cleaning pada data meuat 108 baris data dan 10 kolom, dengan r
 9. ts: Timestamp
 10. kualitas_udara: Kategori kualitas udara dari AQI
 
+----------------------------------------------------------------
+**Tahap Pengerjaan**
+
+1. Cleaning Data
+3. Categorized the Data from AQI Variabel
+4. Making Visualized of Data
+5. Do Forecast Data Analist
+6. Kesimpulan Forecast
 -----------------------------------------------------------------
 **Kesimpulan**
 
-Berdasarkan hasil forecast AQI menggunakan model Prophet, dapat disimpulkan bahwa kualitas udara di kota Bandar Lampung (diasumsikan dari data yang digunakan) diperkirakan akan mengalami fluktuasi dalam periode satu tahun ke depan. 
-Fluktuasi artinya akan terjadi perubahan kenaikan khusus AQI yang disebabkan oleh faktor polutan udara, yang perubahannya berupa kenaikan maupun penurunan nilai AQI itu sendiri.
-Prediksi ini memberikan gambaran bahwa nilai rata-rata AQI (Air Quality Index) dapat naik dan turun secara periodik tertentu. 
-Dengan adanya informasi ini, pihak terkait dapat mempersiapkan langkah-langkah mitigasi atau perbaikan kualitas udara yang tepat untuk menghadapi variasi yang diperkirakan akan terjadi di masa mendatang.
-Prediksi ini juga dapat digunakan sebagai dasar untuk perencanaan kegiatan masyarakat atau kebijakan publik yang bertujuan untuk meminimalkan dampak negatif dari kualitas udara yang buruk pada kesehatan dan lingkungan.
+Berdasarkan hasil forecast AQI menggunakan model Prophet, dapat disimpulkan bahwa kualitas udara di kota Bandar Lampung (diasumsikan dari data yang digunakan) diperkirakan akan mengalami fluktuasi dalam periode satu tahun ke depan. Fluktuasi artinya akan terjadi perubahan kenaikan khusus AQI yang disebabkan oleh faktor polutan udara, yang perubahannya berupa kenaikan maupun penurunan nilai AQI itu sendiri.Prediksi ini memberikan gambaran bahwa nilai rata-rata AQI (Air Quality Index) dapat naik dan turun secara periodik tertentu. Dengan adanya informasi ini, pihak terkait dapat mempersiapkan langkah-langkah mitigasi atau perbaikan kualitas udara yang tepat untuk menghadapi variasi yang diperkirakan akan terjadi di masa mendatang.Prediksi ini juga dapat digunakan sebagai dasar untuk perencanaan kegiatan masyarakat atau kebijakan publik yang bertujuan untuk meminimalkan dampak negatif dari kualitas udara yang buruk pada kesehatan dan lingkungan.
+-------------------------------------------------------------------
+PPT: https://drive.google.com/file/d/1QGdOqhKCh3gmy9KQaxRuWk0zXXLNOmC_/view?usp=sharing
+-------------------------------------------------------------------
+**ABOUT TEAM**
+
+ANNISA ZHAFIRAH - 2115061038
+M.RAFI RIZANDA - 2115061098
+FROM INFORMATICS ENGINEERING MAJOR 6TH SEMESTER, LAMPUNG UNIVERSITY. 
